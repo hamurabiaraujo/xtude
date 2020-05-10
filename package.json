@@ -1,0 +1,22 @@
+{
+  "name": "xtude",
+  "version": "0.0.0",
+  "description": "simple project to create CI/CD flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamurabiaraujo/xtude.git"
+  },
+  "author": "Hamurabi Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamurabiaraujo/xtude/issues"
+  },
+  "homepage": "https://github.com/hamurabiaraujo/xtude#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
