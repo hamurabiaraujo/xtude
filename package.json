@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hamurabiaraujo/xtude#readme",
   "devDependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   }
 }
